@@ -94,4 +94,4 @@ The following image demonstrates the web application's appearance:
 
 To view the working app use the link below:
 
-https://elmirlekovic.github.io/left-over-variables/
+https://ayfor.github.io/left-over-variables/
