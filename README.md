@@ -96,3 +96,15 @@ The following image demonstrates the web application's appearance:
 To view the working app use the link below:
 
 https://ayfor.github.io/left-over-variables/
+
+### Contact Me
+
+Contact me through my [GitHub Profile](https://github.com/ayfor)
+
+### Collaborators
+
+[Elmir](https://github.com/elmirlekovic)
+[Ashton](https://github.com/ashiemotto)
+[Todd](https://github.com/ToddKelly)
+[Colleen](https://github.com/ColleenCollins8)
+[Zoe](https://github.com/zoegautreau)
